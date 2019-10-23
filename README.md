@@ -8,7 +8,7 @@ This app is a compatibility-based "FriendFinder" application -- basically a dati
 * The application is deployed to [Heroku](https://tranquil-sea-89762.herokuapp.com/)
 
 ## Technologies
-* HTML, CSS and Bootstrap
+* HTML
 * JavaScript, jQuery, Node.js, Express.js
 * npm
 * Heroku
